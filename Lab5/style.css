@@ -1,0 +1,28 @@
+body{background-color: rgba(203, 192, 210, 0.668);}
+.wrapper{
+    border: 2px solid;
+    border-color:rgb(77, 6, 87);
+    width: 940px;
+    margin: 20px auto 20px auto;
+    background-color: rgba(203, 192, 210, 0.668);
+}
+
+nav,footer{
+    color: rgb(80, 11, 80);
+    background-color: rgb(193, 154, 193);
+    height: 30px;
+    padding-bottom: 5px;
+    clear :both;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+
+}
+nav a {color:rgb(80, 11, 80)}
+a:hover{ color: lightgoldenrodyellow;}
+nav li{display: inline; margin-right: 120px; }
+nav ul{
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+}
+
+
